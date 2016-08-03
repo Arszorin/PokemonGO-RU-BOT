@@ -1,0 +1,42 @@
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\PokemonGO BOT - Русская Версия.exe.config
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\PokemonGO BOT - Русская Версия.exe
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\ru\PokemonGO BOT - Русская Версия.resources.dll
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\GeoCoordinatePortable.dll
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\GMap.NET.Core.dll
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\Google.Protobuf.dll
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\Newtonsoft.Json.dll
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\Pokemon Go Rocket API.dll
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\PokemonGo.RocketAPI.Logic.dll
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\System.Data.SQLite.dll
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\S2Geometry.dll
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\GPSOAuthSharp.dll
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\System.VarintBitConverter.dll
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\C5.dll
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\PokemonGo.RocketAPI.Logic.pdb
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\Pokemon Go Rocket API.pdb
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\GeoCoordinatePortable.pdb
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\GeoCoordinatePortable.xml
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\GMap.NET.Core.xml
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\GMap.NET.WindowsForms.xml
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\Google.Protobuf.xml
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\Newtonsoft.Json.xml
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\System.Data.SQLite.xml
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\S2Geometry.xml
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\C5.pdb
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\bin\Release\C5.xml
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\obj\Release\PokemonGo.RocketAPI.GUI.csprojResolveAssemblyReference.cache
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\obj\Release\PokemonGo.RocketAPI.GUI.ConsoleForm.resources
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\obj\Release\PokemonGo.RocketAPI.GUI.GUISettingsForm.resources
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\obj\Release\PokemonGo.RocketAPI.GUI.LocationSelector.resources
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\obj\Release\PokemonGo.RocketAPI.GUI.LoginForm.resources
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\obj\Release\PokemonGo.RocketAPI.GUI.MainForm.resources
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\obj\Release\PokemonGo.RocketAPI.GUI.PokemonForm.resources
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\obj\Release\PokemonGo.RocketAPI.GUI.PokemonSnipingForm.resources
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\obj\Release\PokemonGo.RocketAPI.GUI.Properties.Resources.resources
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\obj\Release\PokemonGo.RocketAPI.GUI.LoginForm.ru.resources
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\obj\Release\PokemonGo.RocketAPI.GUI.csproj.GenerateResource.Cache
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\obj\Release\ru\PokemonGO BOT - Русская Версия.resources.dll
+C:\Users\arszo\Desktop\sniper\PokemonGo-Bot-SimpleGUI-master\PokemonGo.RocketAPI.GUI\obj\Release\PokemonGO BOT - Русская Версия.exe
